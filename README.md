@@ -138,6 +138,7 @@ https://f-droid.org/en/packages/info.dvkr.screenstream
 
 
 Scoop
+
 https://github.com/TacoTheDank/Scoop
 
 Logcat reader
