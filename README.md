@@ -1,13 +1,13 @@
 # Best FOSS Apps for Android
 
-> A collection of best and actively developed open-source apps for android
+> A collection of best and actively developed open-source apps for android.
 
 <br> <br>
 
 ***[ Multimedia Apps ]***
 
 
-simple galery
+Simple Gallery
 
 https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro
 
@@ -16,12 +16,12 @@ Audio Recorder
 https://github.com/Dimowner/AudioRecorder
 
 
-Simple music player
+Simple Music Player
 
 https://github.com/SimpleMobileTools/Simple-Music-Player
 
 
-simple Camera
+Simple Camera
 
 https://f-droid.org/en/packages/com.simplemobiletools.camera
 
@@ -31,7 +31,7 @@ Open Camera
 https://sourceforge.net/projects/opencamera/
 
 
-video player 
+Video Player 
 
 https://github.com/moneytoo/Player
 
@@ -53,7 +53,7 @@ https://f-droid.org/en/packages/org.schabi.newpipe
 ***[ Download Managers ]***
 
 
-libretorrent 
+Libretorrent 
 https://github.com/proninyaroslav/libretorrent
 
 Download Navi
@@ -95,7 +95,7 @@ Aurora Store
 
 https://auroraoss.com/
 
-F-Deroid 
+F-Droid 
 
 https://f-droid.org/en/
 
@@ -141,7 +141,7 @@ Scoop
 
 https://github.com/TacoTheDank/Scoop
 
-Logcat reader
+Logcat Reader
 
 https://f-droid.org/en/packages/com.dp.logcatapp
 
