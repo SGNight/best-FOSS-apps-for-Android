@@ -45,6 +45,7 @@ Smart Tube Next
 https://github.com/yuliskov/SmartTubeNext
 
 NewPipe 
+
 https://f-droid.org/en/packages/org.schabi.newpipe
 
 
@@ -54,6 +55,7 @@ https://f-droid.org/en/packages/org.schabi.newpipe
 
 
 Libretorrent 
+
 https://github.com/proninyaroslav/libretorrent
 
 Download Navi
@@ -122,6 +124,11 @@ Simple Calculator
 
 https://github.com/SimpleMobileTools/Simple-Calculator
 
+xClipper Clipboard Manager
+
+https://github.com/KaustubhPatange/XClipper/tree/master/XClipper.Android
+
+
 
 <br> <br>
 
@@ -129,7 +136,7 @@ https://github.com/SimpleMobileTools/Simple-Calculator
 
 Screen Stream 
 
-https://f-droid.org/en/packages/info.dvkr.screenstream
+https://github.com/dkrivoruchko/ScreenStream
 
 
 <br> <br>
@@ -144,6 +151,21 @@ https://github.com/TacoTheDank/Scoop
 Logcat Reader
 
 https://f-droid.org/en/packages/com.dp.logcatapp
+
+
+<br> <br>
+
+***[ Networking & File Sharing ]***
+
+IPFS Lite
+
+https://f-droid.org/en/packages/threads.server/
+
+Gear VPN
+
+https://gitlab.com/KaustubhPatange/gear-vpn
+
+
 
 
 
